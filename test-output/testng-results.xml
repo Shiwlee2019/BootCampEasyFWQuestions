@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-06T21:37:28 EST" name="Default suite" finished-at="2024-01-06T21:37:38 EST" duration-ms="9995">
+    <groups>
+    </groups>
+    <test started-at="2024-01-06T21:37:28 EST" name="Default test" finished-at="2024-01-06T21:37:38 EST" duration-ms="9995">
+      <class name="com.qaTNLandingPage.LadingPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qaTNLandingPage.LadingPageTest@534a5a98]" started-at="2024-01-06T21:37:28 EST" name="setup" finished-at="2024-01-06T21:37:34 EST" duration-ms="5188" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="navigateToWebpage()[pri:0, instance:com.qaTNLandingPage.LadingPageTest@534a5a98]" started-at="2024-01-06T21:37:34 EST" name="navigateToWebpage" finished-at="2024-01-06T21:37:38 EST" duration-ms="4528" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateToWebpage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qaTNLandingPage.LadingPageTest@534a5a98]" started-at="2024-01-06T21:37:38 EST" name="tearDown" finished-at="2024-01-06T21:37:38 EST" duration-ms="241" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qaTNLandingPage.LadingPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
